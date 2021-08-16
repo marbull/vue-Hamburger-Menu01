@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-  import HeHamburgerMenulloWorld from './components/HamburgerMenu.vue';
+  import HamburgerMenu from './components/HamburgerMenu.vue';
 </script>
